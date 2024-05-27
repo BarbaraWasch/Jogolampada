@@ -20,7 +20,6 @@ Se você acender todas as três lâmpadas antes do limite de tentativas, o jogo 
 Requisitos
 Python 3.x
 Biblioteca Tkinter (geralmente incluída na instalação padrão do Python)
-Capturas de Tela
 
 Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request para propor melhorias, correções de bugs ou novas funcionalidades.
